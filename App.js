@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 import Login from "./login.js";
 import Profile from "./Profile.js";
 import React from "react";
-import profilePic from "./assets/profile.jpg";
+import p from "./src/p.jpg";
 
 function App() {
   return (
